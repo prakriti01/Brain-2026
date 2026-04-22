@@ -1,4 +1,4 @@
-# NEW PROJECT OWNERS
+# Project Brain 2026 
 This folder contains documents that cover how RAPIDS handles many processes. Not all of the documents within are going to be applicable to your library, and GitHub may not be where you want to host this information.
 
 These should be viewed as references and to gain an understanding of what a fully documented library looks like. There is no problem with keeping these documents here - if you choose to use them:
