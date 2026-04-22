@@ -2,8 +2,7 @@
 ## Overview ##
 World’s Largest Brain-Wide CRISPR Atlas: to Fuel Drug Discovery 
 8 million cells across hundreds of cell types, revealing how genes shape the brain in health and disease We’re releasing the  atlas and tools to accelerate discovery:
-
-## This folder contains documents that cover how RAPIDS handles many processes. Not all of the documents within are going to be applicable to your library, and GitHub may not be 
+This folder contains documents that cover how RAPIDS handles many processes. Not all of the documents within are going to be applicable to your library, and GitHub may not be 
 where you want to host this information.
 These should be viewed as references and to gain an understanding of what a fully documented library looks like. There is no problem with keeping these documents here - 
 if you choose to use them:
